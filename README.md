@@ -1,1 +1,3 @@
 # Morpion
+
+NPM INSTALL BEFORE LAUNCH
